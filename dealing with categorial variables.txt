@@ -1,0 +1,6 @@
+target encoding with smoothing, https://www.kaggle.com/ogrellier/xgb-classifier-upsampling-lb-0-283?scriptVersionId=1638269/output
+
+https://www.analyticsvidhya.com/blog/2015/11/easy-methods-deal-categorical-variables-predictive-modeling/
+
+for interaction terms in pandas: https://stackoverflow.com/questions/33257199/how-to-generate-many-interaction-terms-in-pandas
+				 http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
